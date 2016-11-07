@@ -1,0 +1,26 @@
+{
+  "name": "weighted-stats",
+  "version": "0.0.1",
+  "description": "Calculate weighted mean, median and standard deviation",
+  "private": true,
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stekhn/weighted-stats.git"
+  },
+  "keywords": [
+    "statistics"
+  ],
+  "author": "Steffen Kühne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stekhn/weighted-stats/issues"
+  },
+  "homepage": "https://github.com/stekhn/weighted-stats#readme"
+}
